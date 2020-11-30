@@ -1,6 +1,4 @@
-LTMZones1.csv
-LTMZones1.csv.zip
 *.pdf
 .ipynb_checkpoints/
- Untitled.ipynb
-Untitled1.ipynb
+old/
+__pycache__/
