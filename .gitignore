@@ -1,4 +1,5 @@
 *.pdf
 .ipynb_checkpoints/
 old/
-__pycache__/
+*.pptx
+*.gdslides
